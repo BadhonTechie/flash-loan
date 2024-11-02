@@ -2,7 +2,7 @@
 Create an Aave Flash Loan arbitrage smart contract from scratch in this comprehensive flash loan tutorial by Block Explorer.
 
 ## Project repo:
-https://github.com/BadhonTechie/flash-loan
+[https://github.com/BadhonTechie/flash-loan](https://github.com/BadhonTechie/flash-loan.git)
 
 ## Aave v3 Flash Loan documentation:
 https://docs.aave.com/developers/guides/flash-loans
